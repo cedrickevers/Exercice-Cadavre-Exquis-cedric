@@ -10,3 +10,10 @@ Ligne 3
 A force de prendre des *lignes*
 J'ai la tête qui *tourne*
 Beeeeuurrk
+
+Git in case of fire
+*  git commit
+*  git push
+*  leave building
+https://i.imgur.com/3POtveC.jpg
+
